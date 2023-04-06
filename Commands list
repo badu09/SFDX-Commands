@@ -10,7 +10,7 @@
   force:apex:test:report              # display test results
   force:apex:test:run                 # invoke Apex tests
   force:apex:trigger:create           # create an Apex trigger
-  force:auth:device:login             # authorize an org using a device code
+  force:auth:device:login             # authorize an org using a device code / ERRO - Kill the process running on port 1717 or use a custom connected app and update OauthLocalPort in the sfdx-project.json file.
   force:auth:jwt:grant                # authorize an org using the JWT flow
   force:auth:list                     # list auth connection information
   force:auth:logout                   # log out from authorized orgs
