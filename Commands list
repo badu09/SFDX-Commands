@@ -111,3 +111,4 @@
   force:user:permset:assign           # assign a permission set to one or more users of an org
   force:visualforce:component:create  # create a Visualforce component
   force:visualforce:page:create       # create a Visualforce page
+/* ----- */
