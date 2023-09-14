@@ -1,4 +1,4 @@
-=== Commands
+
 
 <!--  Lista de comandos -->
   force:alias:list                    # list username aliases for the Salesforce CLI
